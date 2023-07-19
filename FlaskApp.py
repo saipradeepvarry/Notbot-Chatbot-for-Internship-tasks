@@ -1,4 +1,4 @@
-// Install required Python Packages:
+// Install required Python Packages
 flask
 
 pip install flask
