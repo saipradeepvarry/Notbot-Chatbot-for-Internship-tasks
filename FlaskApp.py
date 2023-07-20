@@ -1,10 +1,3 @@
-// Install required Python Packages
-//flask
-
-//pip install flask
-//twilio
-
-//pip install twilio
 
 from flask import Flask,request
 from twilio.twiml.messaging_response import MessagingResponse
